@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887258405982",
+    "firebase_url": "https://meetuprn.firebaseio.com",
+    "project_id": "meetuprn",
+    "storage_bucket": "meetuprn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887258405982:android:1b84460d5cd9c6ae",
+        "android_client_info": {
+          "package_name": "com.meetuprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887258405982-3sueugbpbeiie2at4q5r2ijavcillipr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLG4MhVym-LzeiQHhbF_RUh3J4IBP5vhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887258405982-3sueugbpbeiie2at4q5r2ijavcillipr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
